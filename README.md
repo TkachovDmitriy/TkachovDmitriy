@@ -12,7 +12,6 @@
 
 ## Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/dima-tkachov-b93416198/)
-[<img align="left" alt="codeSTACKr | Isntagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />](https://www.instagram.com/__tiny_dev/)
 <br />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TkachovDmitriy&theme=blueberry&show_icons=true)](https://github.com/TkachovDmitriy/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TkachovDmitriy&layout=compact&theme=blueberry)](https://github.com/TkachovDmitriy/github-readme-stats)
