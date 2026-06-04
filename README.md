@@ -1,4 +1,4 @@
- ### Hi, I'm Dima 👋
+  ### Hi, I'm Dima 👋
 
   **Backend Engineer** · Wrocław, Poland
 
@@ -21,10 +21,7 @@
 
   ---
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=TkachovDmitriy&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TkachovDmitriy&theme=github_dark)
 
-  ---
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TkachovDmitriy&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TkachovDmitriy&layout=compact&theme=dark&hide_border=true&langs_count=6)
+  [![Activity
+  Graph](https://github-readme-activity-graph.vercel.app/graph?username=TkachovDmitriy&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
