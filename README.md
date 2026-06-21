@@ -1,6 +1,6 @@
   ### Hi, I'm Dima 👋
 
-  **Backend Engineer** · Wrocław, Poland
+  **Backend Engineer** / **DevOps**  · Wrocław, Poland
 
   - 🔭 Working at **Codica** — backend lead, sole Node.js architect
   - 🦀 Learning **Rust** for fun — slowly but surely
