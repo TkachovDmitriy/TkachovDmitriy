@@ -15,8 +15,6 @@ jobs:
   generate:
     permissions:
       contents: read
-      issues: read
-      pull-requests: read
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
@@ -25,7 +23,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@27f3601ffd7302c6ffaefb472ba8383d2a296e3f # v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=github&hide_border=true&theme=default
+          options: username=${{ github.repository_owner }}&show_icons=true&rank_icon=github&hide_border=true&theme=default
           path: dist/stats.svg
           token: ${{ github.token }}
 
@@ -33,7 +31,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@27f3601ffd7302c6ffaefb472ba8383d2a296e3f # v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=github&hide_border=true&theme=github_dark
+          options: username=${{ github.repository_owner }}&show_icons=true&rank_icon=github&hide_border=true&theme=github_dark
           path: dist/stats-dark.svg
           token: ${{ github.token }}
 

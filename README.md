@@ -4,14 +4,23 @@
 
 # Hi, I'm Dima 👋
 
+</div>
+
 ```console
 tkachov@github:~$ whoami
-Dima Tkachov — Backend Engineer · DevOps
+Dima Tkachov
+
+tkachov@github:~$ role
+Backend Engineer · DevOps
+
+tkachov@github:~$ location
 Wrocław, Poland
 
 tkachov@github:~$ focus
 Building reliable backends and reproducible infrastructure
 ```
+
+<div align="center">
 
 <a href="mailto:dtkachov.work@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" title="Email"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/dima-tkachov"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" title="LinkedIn"></a>
@@ -81,7 +90,7 @@ Building reliable backends and reproducible infrastructure
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TkachovDmitriy/TkachovDmitriy/stats-output/stats-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TkachovDmitriy/TkachovDmitriy/stats-output/stats.svg">
-  <img alt="Dima's GitHub statistics, pull requests, and reviews" width="49%" src="https://raw.githubusercontent.com/TkachovDmitriy/TkachovDmitriy/stats-output/stats.svg">
+  <img alt="Dima's GitHub statistics" width="49%" src="https://raw.githubusercontent.com/TkachovDmitriy/TkachovDmitriy/stats-output/stats.svg">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TkachovDmitriy/TkachovDmitriy/stats-output/languages-dark.svg">
