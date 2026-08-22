@@ -89,18 +89,6 @@ Building reliable backends and reproducible infrastructure
   <img alt="Dima's most used public repository languages" width="49%" src="https://raw.githubusercontent.com/TkachovDmitriy/TkachovDmitriy/stats-output/languages.svg">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://trophy.ryglcloud.net/?username=TkachovDmitriy&theme=darkhub&column=6&row=1&margin-w=8&no-bg=true&no-frame=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://trophy.ryglcloud.net/?username=TkachovDmitriy&theme=flat&column=6&row=1&margin-w=8&no-bg=true&no-frame=true">
-  <img alt="Dima's GitHub trophies" width="100%" src="https://trophy.ryglcloud.net/?username=TkachovDmitriy&theme=flat&column=6&row=1&margin-w=8&no-bg=true&no-frame=true">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TkachovDmitriy&theme=github-compact&area=true&hide_border=true&radius=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TkachovDmitriy&theme=github&area=true&hide_border=true&radius=8">
-  <img alt="Dima's GitHub activity over the last 31 days" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TkachovDmitriy&theme=github&area=true&hide_border=true&radius=8">
-</picture>
-
 ### Contribution arcade
 
 <picture>
