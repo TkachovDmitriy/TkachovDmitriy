@@ -1,18 +1,10 @@
 <div align="center">
 
-<img src="assets/header.png" width="100%" alt="Dark terminal and infrastructure header">
-
-# Hi, I'm Dima 👋
+<img src="assets/header-v2.png" width="100%" alt="Hi, I'm Tkachov — Backend Engineer and DevOps">
 
 </div>
 
 ```console
-tkachov@github:~$ whoami
-Dima Tkachov
-
-tkachov@github:~$ role
-Backend Engineer · DevOps
-
 tkachov@github:~$ location
 Wrocław, Poland
 
