@@ -30,7 +30,7 @@ Building reliable backends and reproducible infrastructure
 ## Random dev thought
 
 <a href="https://github.com/piyushsuthar/github-readme-quotes">
-  <img alt="Random programming quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal" width="100%">
+  <img alt="Random programming quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" width="100%">
 </a>
 
 </div>
@@ -92,9 +92,9 @@ Building reliable backends and reproducible infrastructure
 ### Contribution arcade
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TkachovDmitriy/TkachovDmitriy/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TkachovDmitriy/TkachovDmitriy/pacman-output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man animation of Dima's GitHub contributions" src="https://raw.githubusercontent.com/TkachovDmitriy/TkachovDmitriy/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TkachovDmitriy/TkachovDmitriy/contribution-output/contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TkachovDmitriy/TkachovDmitriy/contribution-output/contribution-graph.svg">
+  <img alt="Arcade animation of Dima's GitHub contributions" src="https://raw.githubusercontent.com/TkachovDmitriy/TkachovDmitriy/contribution-output/contribution-graph.svg">
 </picture>
 
 ### When I'm AFK
