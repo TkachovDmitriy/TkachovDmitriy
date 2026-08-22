@@ -4,9 +4,14 @@
 
 # Hi, I'm Dima 👋
 
-### Backend Engineer · DevOps · Wrocław, Poland
+```console
+tkachov@github:~$ whoami
+Dima Tkachov — Backend Engineer · DevOps
+Wrocław, Poland
 
-`$ building reliable backends and reproducible infrastructure`
+tkachov@github:~$ focus
+Building reliable backends and reproducible infrastructure
+```
 
 <a href="mailto:dtkachov.work@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" title="Email"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/dima-tkachov"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" title="LinkedIn"></a>
@@ -14,14 +19,6 @@
 </div>
 
 ## About me
-
-```console
-tkachov@github:~$ whoami
-Backend Lead and Node.js architect at Codica
-
-tkachov@github:~$ interests
-DevOps, cloud infrastructure, automation, NixOS, Rust, and Go
-```
 
 - 🔭 Leading backend development and Node.js architecture at **Codica**
 - ☁️ Exploring infrastructure, automation, and cloud-native tooling
