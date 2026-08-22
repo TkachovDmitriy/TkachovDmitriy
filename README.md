@@ -111,12 +111,8 @@ Building reliable backends and reproducible infrastructure
 
 ### When I'm AFK
 
-<span title="Gaming">🎮</span>&nbsp;&nbsp;&nbsp;&nbsp;
-<span title="Watching videos">📺</span>&nbsp;&nbsp;&nbsp;&nbsp;
-<span title="Gym">🏋️</span>
-
-<br>
-
-<sub>Gaming · Videos · Gym</sub>
+![PC Gaming](https://img.shields.io/badge/%F0%9F%8E%AE_PC_Gaming-5865F2?style=for-the-badge)
+![Videos](https://img.shields.io/badge/%F0%9F%93%BA_Videos-FF0000?style=for-the-badge)
+![Gym](https://img.shields.io/badge/%F0%9F%8F%8B%EF%B8%8F_Gym-2E8B57?style=for-the-badge)
 
 </div>
