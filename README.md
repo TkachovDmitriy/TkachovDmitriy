@@ -85,9 +85,9 @@ DevOps, cloud infrastructure, automation, NixOS, and Rust
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TkachovDmitriy/TkachovDmitriy/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TkachovDmitriy/TkachovDmitriy/output/github-snake.svg">
-  <img alt="Snake animation of Dima's GitHub contributions" src="https://raw.githubusercontent.com/TkachovDmitriy/TkachovDmitriy/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TkachovDmitriy/TkachovDmitriy/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TkachovDmitriy/TkachovDmitriy/pacman-output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man animation of Dima's GitHub contributions" src="https://raw.githubusercontent.com/TkachovDmitriy/TkachovDmitriy/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
 </div>
