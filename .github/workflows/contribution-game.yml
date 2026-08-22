@@ -1,0 +1,86 @@
+name: Generate contribution arcade
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - profile-terminal-preview
+
+permissions: {}
+
+env:
+  # Change only this value to switch the README animation: pacman or snake.
+  CONTRIBUTION_GAME: pacman
+
+jobs:
+  generate:
+    permissions:
+      contents: read
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Generate Pac-Man SVGs
+        if: env.CONTRIBUTION_GAME == 'pacman'
+        uses: abozanona/pacman-contribution-graph@7332e1de7903ab780c3692a4127a59cc13872daa # main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: pacman
+
+      - name: Normalize Pac-Man filenames
+        if: env.CONTRIBUTION_GAME == 'pacman'
+        run: |
+          mv dist/pacman-contribution-graph.svg dist/contribution-graph.svg
+          mv dist/pacman-contribution-graph-dark.svg dist/contribution-graph-dark.svg
+
+      - name: Generate Snake SVGs
+        if: env.CONTRIBUTION_GAME == 'snake'
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/contribution-graph.svg?palette=github-light
+            dist/contribution-graph-dark.svg?palette=github-dark
+
+      - name: Validate selected game
+        if: env.CONTRIBUTION_GAME != 'pacman' && env.CONTRIBUTION_GAME != 'snake'
+        run: |
+          echo "CONTRIBUTION_GAME must be either pacman or snake"
+          exit 1
+
+      - name: Upload generated SVGs
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: contribution-svg
+          path: dist
+          retention-days: 1
+
+  publish:
+    needs: generate
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Download generated SVGs
+        uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
+        with:
+          name: contribution-svg
+          path: dist
+
+      - name: Publish SVGs to contribution-output branch
+        working-directory: dist
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git init
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b contribution-output
+          git add .
+          git commit -m "Update contribution arcade"
+          git push --force "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:contribution-output
