@@ -80,14 +80,14 @@ Building reliable backends and reproducible infrastructure
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=TkachovDmitriy&show_icons=true&rank_icon=github&hide_border=true&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=TkachovDmitriy&show_icons=true&rank_icon=github&hide_border=true&theme=default">
-  <img alt="Dima's GitHub statistics" width="49%" src="https://github-stats-extended.vercel.app/api?username=TkachovDmitriy&show_icons=true&rank_icon=github&hide_border=true&theme=default">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=TkachovDmitriy&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=BB9AF7&text_color=C9D1D9&icon_color=9D7CD8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=TkachovDmitriy&show_icons=true&rank_icon=github&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&text_color=24292F&icon_color=8B5CF6">
+  <img alt="Dima's GitHub statistics" width="49%" src="https://github-stats-extended.vercel.app/api?username=TkachovDmitriy&show_icons=true&rank_icon=github&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&text_color=24292F&icon_color=8B5CF6">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=TkachovDmitriy&layout=compact&langs_count=8&card_width=420&hide_border=true&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=TkachovDmitriy&layout=compact&langs_count=8&card_width=420&hide_border=true&theme=default">
-  <img alt="Dima's most used public repository languages" width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=TkachovDmitriy&layout=compact&langs_count=8&card_width=420&hide_border=true&theme=default">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=TkachovDmitriy&layout=compact&langs_count=8&card_width=420&hide_border=true&bg_color=0D1117&title_color=BB9AF7&text_color=C9D1D9">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=TkachovDmitriy&layout=compact&langs_count=8&card_width=420&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&text_color=24292F">
+  <img alt="Dima's most used public repository languages" width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=TkachovDmitriy&layout=compact&langs_count=8&card_width=420&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&text_color=24292F">
 </picture>
 
 ### Contribution arcade
