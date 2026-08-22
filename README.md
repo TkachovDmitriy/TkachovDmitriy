@@ -4,19 +4,18 @@
 
 </div>
 
-```console
-tkachov@github:~$ location
+<pre><code>tkachov@github:~$ location
 Wrocław, Poland
 
 tkachov@github:~$ focus
 Building reliable backends and reproducible infrastructure
 
 tkachov@github:~$ contact --email
-dtkachov.work@gmail.com
+<a href="mailto:dtkachov.work@gmail.com">dtkachov.work@gmail.com</a>
 
 tkachov@github:~$ contact --linkedin
-linkedin.com/in/dima-tkachov
-```
+<a href="https://www.linkedin.com/in/dima-tkachov">linkedin.com/in/dima-tkachov</a>
+</code></pre>
 
 ## About me
 
