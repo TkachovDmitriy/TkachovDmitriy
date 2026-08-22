@@ -80,14 +80,14 @@ Building reliable backends and reproducible infrastructure
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TkachovDmitriy/TkachovDmitriy/stats-output/stats-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TkachovDmitriy/TkachovDmitriy/stats-output/stats.svg">
-  <img alt="Dima's GitHub statistics" width="49%" src="https://raw.githubusercontent.com/TkachovDmitriy/TkachovDmitriy/stats-output/stats.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=TkachovDmitriy&show_icons=true&rank_icon=github&hide_border=true&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=TkachovDmitriy&show_icons=true&rank_icon=github&hide_border=true&theme=default">
+  <img alt="Dima's GitHub statistics" width="49%" src="https://github-stats-extended.vercel.app/api?username=TkachovDmitriy&show_icons=true&rank_icon=github&hide_border=true&theme=default">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TkachovDmitriy/TkachovDmitriy/stats-output/languages-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TkachovDmitriy/TkachovDmitriy/stats-output/languages.svg">
-  <img alt="Dima's most used public repository languages" width="49%" src="https://raw.githubusercontent.com/TkachovDmitriy/TkachovDmitriy/stats-output/languages.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=TkachovDmitriy&layout=compact&langs_count=8&card_width=420&hide_border=true&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=TkachovDmitriy&layout=compact&langs_count=8&card_width=420&hide_border=true&theme=default">
+  <img alt="Dima's most used public repository languages" width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=TkachovDmitriy&layout=compact&langs_count=8&card_width=420&hide_border=true&theme=default">
 </picture>
 
 ### Contribution arcade
