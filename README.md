@@ -10,14 +10,13 @@ Wrocław, Poland
 
 tkachov@github:~$ focus
 Building reliable backends and reproducible infrastructure
+
+tkachov@github:~$ contact --email
+dtkachov.work@gmail.com
+
+tkachov@github:~$ contact --linkedin
+linkedin.com/in/dima-tkachov
 ```
-
-<div align="center">
-
-<a href="mailto:dtkachov.work@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" title="Email"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/dima-tkachov"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" title="LinkedIn"></a>
-
-</div>
 
 ## About me
 
@@ -49,7 +48,7 @@ Building reliable backends and reproducible infrastructure
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/lua/lua-original.svg" height="40" alt="Lua" title="Lua">
 
 **Exploring**<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/rust/rust-original.svg" height="40" alt="Rust" title="Learning Rust">&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/rust/DEA584" height="40" alt="Rust" title="Learning Rust">&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/go/go-original.svg" height="40" alt="Go" title="Exploring Go">
 
 **Cloud & delivery**<br>
